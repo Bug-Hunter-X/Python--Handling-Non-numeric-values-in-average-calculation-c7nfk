@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Python when calculating the average of a list of numbers: not handling non-numeric input. The `bug.py` file contains the erroneous code, while `bugSolution.py` provides a corrected version that gracefully handles various input scenarios.
